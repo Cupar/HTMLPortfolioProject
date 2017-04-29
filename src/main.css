@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+  align-items: center;
+  background-color: #EFEFEF;
+  background-image: url(bg.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  justify-content: center;
+  min-height: 250px;
+  border: 1px solid gray;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  text-align: center;
+  color: white;
+  padding: 0 20px;
+  display: flex;
+  flex-direction: column;
+}
+.tagline {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  text-align: left;
+  padding: 8px;
+}
+.skills {
+  border: 1px solid gray;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  background-color: #0000aa;
+  text-align: left;
+  padding: 8px;
+  color: white;
+}
+.contact {
+  color: #5d9ab2;
+  text-align: center;
+}
